@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls="rm *"
+paste -d, - - | cut -d, -f1
