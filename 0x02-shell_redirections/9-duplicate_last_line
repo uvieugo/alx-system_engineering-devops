@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_cwd_state
+tail -1 iacta >> iacta
