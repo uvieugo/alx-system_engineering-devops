@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r *.js
+grep -1 "root" -A 3 /etc/passwd

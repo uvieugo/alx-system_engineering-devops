@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r *.js
+grep -1 -v "bin" /etc/passwd
